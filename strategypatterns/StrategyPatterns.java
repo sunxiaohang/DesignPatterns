@@ -6,7 +6,7 @@ package com.sunxiaohang.strategypatterns;
  * @author root
  * 策略模式注意点
  * 1.分析项目中变化部分与不变部分
- * 2.多用组合少用继承；用行为泪组合，而不是行为的继承，更具有弹性
+ * 2.多用组合少用继承；用行为类组合，而不是行为的继承，更具有弹性
  */
 public class StrategyPatterns {
 	public static void main(String[] args) {
